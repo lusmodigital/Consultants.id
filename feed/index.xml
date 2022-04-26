@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Consultants.id</title>
+	<title>Consultants</title>
 	<atom:link href="/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Jasa Konsultan Indonesia Terpercaya dan Berpengalaman</description>
-	<lastBuildDate>Fri, 18 Mar 2022 03:12:08 +0000</lastBuildDate>
+	<description>Jasa Konsultan Bisnis Perusahaan</description>
+	<lastBuildDate>Mon, 25 Apr 2022 15:36:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.9.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2020/10/cropped-favicon-consultants-32x32.png</url>
-	<title>Consultants.id</title>
+	<url>/wp-content/uploads/2022/04/favicon-consultants-150x150.png</url>
+	<title>Consultants</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
