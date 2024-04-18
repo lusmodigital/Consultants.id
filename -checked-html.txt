@@ -1,0 +1,6 @@
+blog/index.html
+index.html
+konsultan/index.html
+kontak-kami/index.html
+layanan/index.html
+tentang-kami/index.html
